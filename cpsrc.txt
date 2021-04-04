@@ -1,0 +1,330 @@
+USER        PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root          1  0.0  0.4 159928  8252 ?        Ss   4月04   0:04 /sbin/init splash
+root          2  0.0  0.0      0     0 ?        S    4月04   0:00 [kthreadd]
+root          3  0.0  0.0      0     0 ?        I<   4月04   0:00 [rcu_gp]
+root          4  0.0  0.0      0     0 ?        I<   4月04   0:00 [rcu_par_gp]
+root          5  0.0  0.0      0     0 ?        I    4月04   0:00 [kworker/0:0-cgr]
+root          6  0.0  0.0      0     0 ?        I<   4月04   0:00 [kworker/0:0H-kb]
+root          9  0.0  0.0      0     0 ?        I<   4月04   0:00 [mm_percpu_wq]
+root         10  0.0  0.0      0     0 ?        S    4月04   0:00 [ksoftirqd/0]
+root         11  0.0  0.0      0     0 ?        I    4月04   0:02 [rcu_sched]
+root         12  0.0  0.0      0     0 ?        S    4月04   0:00 [migration/0]
+root         13  0.0  0.0      0     0 ?        S    4月04   0:00 [idle_inject/0]
+root         14  0.0  0.0      0     0 ?        S    4月04   0:00 [cpuhp/0]
+root         15  0.0  0.0      0     0 ?        S    4月04   0:00 [kdevtmpfs]
+root         16  0.0  0.0      0     0 ?        I<   4月04   0:00 [netns]
+root         17  0.0  0.0      0     0 ?        S    4月04   0:00 [rcu_tasks_kthre]
+root         18  0.0  0.0      0     0 ?        S    4月04   0:00 [kauditd]
+root         19  0.0  0.0      0     0 ?        S    4月04   0:00 [khungtaskd]
+root         20  0.0  0.0      0     0 ?        S    4月04   0:00 [oom_reaper]
+root         21  0.0  0.0      0     0 ?        I<   4月04   0:00 [writeback]
+root         22  0.0  0.0      0     0 ?        S    4月04   0:00 [kcompactd0]
+root         23  0.0  0.0      0     0 ?        SN   4月04   0:00 [ksmd]
+root         24  0.0  0.0      0     0 ?        SN   4月04   0:00 [khugepaged]
+root         70  0.0  0.0      0     0 ?        I<   4月04   0:00 [kintegrityd]
+root         71  0.0  0.0      0     0 ?        I<   4月04   0:00 [kblockd]
+root         72  0.0  0.0      0     0 ?        I<   4月04   0:00 [blkcg_punt_bio]
+root         73  0.0  0.0      0     0 ?        I<   4月04   0:00 [tpm_dev_wq]
+root         74  0.0  0.0      0     0 ?        I<   4月04   0:00 [ata_sff]
+root         75  0.0  0.0      0     0 ?        I<   4月04   0:00 [md]
+root         76  0.0  0.0      0     0 ?        I<   4月04   0:00 [edac-poller]
+root         77  0.0  0.0      0     0 ?        I<   4月04   0:00 [devfreq_wq]
+root         78  0.0  0.0      0     0 ?        S    4月04   0:00 [watchdogd]
+root         81  0.0  0.0      0     0 ?        S    4月04   0:00 [kswapd0]
+root         82  0.0  0.0      0     0 ?        S    4月04   0:00 [ecryptfs-kthrea]
+root         84  0.0  0.0      0     0 ?        I<   4月04   0:00 [kthrotld]
+root         85  0.0  0.0      0     0 ?        S    4月04   0:00 [irq/24-pciehp]
+root         86  0.0  0.0      0     0 ?        S    4月04   0:00 [irq/25-pciehp]
+root         87  0.0  0.0      0     0 ?        S    4月04   0:00 [irq/26-pciehp]
+root         88  0.0  0.0      0     0 ?        S    4月04   0:00 [irq/27-pciehp]
+root         89  0.0  0.0      0     0 ?        S    4月04   0:00 [irq/28-pciehp]
+root         90  0.0  0.0      0     0 ?        S    4月04   0:00 [irq/29-pciehp]
+root         91  0.0  0.0      0     0 ?        S    4月04   0:00 [irq/30-pciehp]
+root         92  0.0  0.0      0     0 ?        S    4月04   0:00 [irq/31-pciehp]
+root         93  0.0  0.0      0     0 ?        S    4月04   0:00 [irq/32-pciehp]
+root         94  0.0  0.0      0     0 ?        S    4月04   0:00 [irq/33-pciehp]
+root         95  0.0  0.0      0     0 ?        S    4月04   0:00 [irq/34-pciehp]
+root         96  0.0  0.0      0     0 ?        S    4月04   0:00 [irq/35-pciehp]
+root         97  0.0  0.0      0     0 ?        S    4月04   0:00 [irq/36-pciehp]
+root         98  0.0  0.0      0     0 ?        S    4月04   0:00 [irq/37-pciehp]
+root         99  0.0  0.0      0     0 ?        S    4月04   0:00 [irq/38-pciehp]
+root        100  0.0  0.0      0     0 ?        S    4月04   0:00 [irq/39-pciehp]
+root        101  0.0  0.0      0     0 ?        S    4月04   0:00 [irq/40-pciehp]
+root        102  0.0  0.0      0     0 ?        S    4月04   0:00 [irq/41-pciehp]
+root        103  0.0  0.0      0     0 ?        S    4月04   0:00 [irq/42-pciehp]
+root        104  0.0  0.0      0     0 ?        S    4月04   0:00 [irq/43-pciehp]
+root        105  0.0  0.0      0     0 ?        S    4月04   0:00 [irq/44-pciehp]
+root        106  0.0  0.0      0     0 ?        S    4月04   0:00 [irq/45-pciehp]
+root        107  0.0  0.0      0     0 ?        S    4月04   0:00 [irq/46-pciehp]
+root        108  0.0  0.0      0     0 ?        S    4月04   0:00 [irq/47-pciehp]
+root        109  0.0  0.0      0     0 ?        S    4月04   0:00 [irq/48-pciehp]
+root        110  0.0  0.0      0     0 ?        S    4月04   0:00 [irq/49-pciehp]
+root        111  0.0  0.0      0     0 ?        S    4月04   0:00 [irq/50-pciehp]
+root        112  0.0  0.0      0     0 ?        S    4月04   0:00 [irq/51-pciehp]
+root        113  0.0  0.0      0     0 ?        S    4月04   0:00 [irq/52-pciehp]
+root        114  0.0  0.0      0     0 ?        S    4月04   0:00 [irq/53-pciehp]
+root        115  0.0  0.0      0     0 ?        S    4月04   0:00 [irq/54-pciehp]
+root        116  0.0  0.0      0     0 ?        S    4月04   0:00 [irq/55-pciehp]
+root        117  0.0  0.0      0     0 ?        I<   4月04   0:00 [acpi_thermal_pm]
+root        118  0.0  0.0      0     0 ?        S    4月04   0:00 [scsi_eh_0]
+root        119  0.0  0.0      0     0 ?        I<   4月04   0:00 [scsi_tmf_0]
+root        120  0.0  0.0      0     0 ?        S    4月04   0:00 [scsi_eh_1]
+root        121  0.0  0.0      0     0 ?        I<   4月04   0:00 [scsi_tmf_1]
+root        123  0.0  0.0      0     0 ?        I<   4月04   0:00 [vfio-irqfd-clea]
+root        124  0.0  0.0      0     0 ?        I<   4月04   0:00 [ipv6_addrconf]
+root        135  0.0  0.0      0     0 ?        I<   4月04   0:00 [kstrp]
+root        138  0.0  0.0      0     0 ?        I<   4月04   0:00 [kworker/u257:0-]
+root        151  0.0  0.0      0     0 ?        I<   4月04   0:00 [charger_manager]
+root        208  0.0  0.0      0     0 ?        I<   4月04   0:00 [mpt_poll_0]
+root        209  0.0  0.0      0     0 ?        I<   4月04   0:00 [mpt/0]
+root        210  0.0  0.0      0     0 ?        S    4月04   0:00 [scsi_eh_2]
+root        211  0.0  0.0      0     0 ?        I<   4月04   0:00 [scsi_tmf_2]
+root        212  0.0  0.0      0     0 ?        S    4月04   0:00 [scsi_eh_3]
+root        213  0.0  0.0      0     0 ?        I<   4月04   0:00 [scsi_tmf_3]
+root        214  0.0  0.0      0     0 ?        S    4月04   0:00 [scsi_eh_4]
+root        215  0.0  0.0      0     0 ?        I<   4月04   0:00 [scsi_tmf_4]
+root        216  0.0  0.0      0     0 ?        S    4月04   0:00 [scsi_eh_5]
+root        217  0.0  0.0      0     0 ?        I<   4月04   0:00 [scsi_tmf_5]
+root        218  0.0  0.0      0     0 ?        S    4月04   0:00 [scsi_eh_6]
+root        219  0.0  0.0      0     0 ?        I<   4月04   0:00 [scsi_tmf_6]
+root        220  0.0  0.0      0     0 ?        S    4月04   0:00 [scsi_eh_7]
+root        221  0.0  0.0      0     0 ?        I<   4月04   0:00 [scsi_tmf_7]
+root        222  0.0  0.0      0     0 ?        S    4月04   0:00 [scsi_eh_8]
+root        223  0.0  0.0      0     0 ?        I<   4月04   0:00 [scsi_tmf_8]
+root        224  0.0  0.0      0     0 ?        S    4月04   0:00 [scsi_eh_9]
+root        225  0.0  0.0      0     0 ?        I<   4月04   0:00 [scsi_tmf_9]
+root        226  0.0  0.0      0     0 ?        S    4月04   0:00 [scsi_eh_10]
+root        227  0.0  0.0      0     0 ?        I<   4月04   0:00 [scsi_tmf_10]
+root        228  0.0  0.0      0     0 ?        S    4月04   0:00 [scsi_eh_11]
+root        229  0.0  0.0      0     0 ?        I<   4月04   0:00 [scsi_tmf_11]
+root        230  0.0  0.0      0     0 ?        S    4月04   0:00 [scsi_eh_12]
+root        231  0.0  0.0      0     0 ?        I<   4月04   0:00 [scsi_tmf_12]
+root        232  0.0  0.0      0     0 ?        S    4月04   0:00 [scsi_eh_13]
+root        233  0.0  0.0      0     0 ?        I<   4月04   0:00 [scsi_tmf_13]
+root        234  0.0  0.0      0     0 ?        S    4月04   0:00 [scsi_eh_14]
+root        235  0.0  0.0      0     0 ?        I<   4月04   0:00 [scsi_tmf_14]
+root        236  0.0  0.0      0     0 ?        S    4月04   0:00 [scsi_eh_15]
+root        237  0.0  0.0      0     0 ?        I<   4月04   0:00 [scsi_tmf_15]
+root        238  0.0  0.0      0     0 ?        S    4月04   0:00 [scsi_eh_16]
+root        239  0.0  0.0      0     0 ?        I<   4月04   0:00 [scsi_tmf_16]
+root        240  0.0  0.0      0     0 ?        S    4月04   0:00 [scsi_eh_17]
+root        241  0.0  0.0      0     0 ?        I<   4月04   0:00 [scsi_tmf_17]
+root        242  0.0  0.0      0     0 ?        S    4月04   0:00 [scsi_eh_18]
+root        243  0.0  0.0      0     0 ?        I<   4月04   0:00 [scsi_tmf_18]
+root        244  0.0  0.0      0     0 ?        S    4月04   0:00 [scsi_eh_19]
+root        245  0.0  0.0      0     0 ?        I<   4月04   0:00 [scsi_tmf_19]
+root        246  0.0  0.0      0     0 ?        S    4月04   0:00 [scsi_eh_20]
+root        247  0.0  0.0      0     0 ?        I<   4月04   0:00 [scsi_tmf_20]
+root        248  0.0  0.0      0     0 ?        S    4月04   0:00 [scsi_eh_21]
+root        249  0.0  0.0      0     0 ?        I<   4月04   0:00 [scsi_tmf_21]
+root        250  0.0  0.0      0     0 ?        S    4月04   0:00 [scsi_eh_22]
+root        251  0.0  0.0      0     0 ?        I<   4月04   0:00 [scsi_tmf_22]
+root        252  0.0  0.0      0     0 ?        S    4月04   0:00 [scsi_eh_23]
+root        253  0.0  0.0      0     0 ?        I<   4月04   0:00 [scsi_tmf_23]
+root        254  0.0  0.0      0     0 ?        S    4月04   0:00 [scsi_eh_24]
+root        255  0.0  0.0      0     0 ?        I<   4月04   0:00 [scsi_tmf_24]
+root        256  0.0  0.0      0     0 ?        S    4月04   0:00 [scsi_eh_25]
+root        257  0.0  0.0      0     0 ?        I<   4月04   0:00 [scsi_tmf_25]
+root        258  0.0  0.0      0     0 ?        S    4月04   0:00 [scsi_eh_26]
+root        259  0.0  0.0      0     0 ?        I<   4月04   0:00 [scsi_tmf_26]
+root        260  0.0  0.0      0     0 ?        S    4月04   0:00 [scsi_eh_27]
+root        261  0.0  0.0      0     0 ?        I<   4月04   0:00 [scsi_tmf_27]
+root        262  0.0  0.0      0     0 ?        S    4月04   0:00 [scsi_eh_28]
+root        263  0.0  0.0      0     0 ?        I<   4月04   0:00 [scsi_tmf_28]
+root        264  0.0  0.0      0     0 ?        S    4月04   0:00 [scsi_eh_29]
+root        265  0.0  0.0      0     0 ?        I<   4月04   0:00 [scsi_tmf_29]
+root        266  0.0  0.0      0     0 ?        S    4月04   0:00 [scsi_eh_30]
+root        267  0.0  0.0      0     0 ?        I<   4月04   0:00 [scsi_tmf_30]
+root        268  0.0  0.0      0     0 ?        S    4月04   0:00 [scsi_eh_31]
+root        269  0.0  0.0      0     0 ?        I<   4月04   0:00 [scsi_tmf_31]
+root        287  0.0  0.0      0     0 ?        S    4月04   0:00 [scsi_eh_32]
+root        296  0.0  0.0      0     0 ?        I<   4月04   0:00 [scsi_tmf_32]
+root        300  0.0  0.0      0     0 ?        I<   4月04   0:01 [kworker/0:1H-kb]
+root        330  0.0  0.0      0     0 ?        S    4月04   0:00 [jbd2/sda1-8]
+root        331  0.0  0.0      0     0 ?        I<   4月04   0:00 [ext4-rsv-conver]
+root        380  0.0  0.5 103492 11680 ?        S<s  4月04   0:01 /lib/systemd/systemd-journald
+root        390  0.0  0.1  46552  2808 ?        Ss   4月04   0:00 /lib/systemd/systemd-udevd
+root        393  0.2  0.0      0     0 ?        I    4月04   0:26 [kworker/0:3-eve]
+root        396  0.0  0.0      0     0 ?        S<   4月04   0:00 [loop0]
+root        397  0.0  0.0      0     0 ?        S<   4月04   0:00 [loop1]
+root        399  0.0  0.0      0     0 ?        S<   4月04   0:00 [loop2]
+root        401  0.0  0.0      0     0 ?        S<   4月04   0:00 [loop3]
+root        405  0.0  0.0      0     0 ?        S<   4月04   0:00 [loop4]
+root        415  0.0  0.0      0     0 ?        S<   4月04   0:00 [loop5]
+root        420  0.0  0.0      0     0 ?        S<   4月04   0:00 [loop6]
+root        422  0.0  0.0      0     0 ?        S<   4月04   0:00 [loop7]
+root        424  0.0  0.0      0     0 ?        S<   4月04   0:00 [loop8]
+root        431  0.0  0.0      0     0 ?        S<   4月04   0:00 [loop9]
+root        433  0.0  0.0      0     0 ?        S<   4月04   0:00 [loop10]
+root        437  0.0  0.0      0     0 ?        S<   4月04   0:00 [loop11]
+root        439  0.0  0.0      0     0 ?        S<   4月04   0:00 [loop12]
+root        442  0.0  0.0      0     0 ?        S<   4月04   0:00 [loop13]
+root        443  0.0  0.0      0     0 ?        S<   4月04   0:00 [loop14]
+root        444  0.0  0.0      0     0 ?        S<   4月04   0:00 [loop15]
+root        445  0.0  0.0      0     0 ?        S<   4月04   0:00 [loop16]
+root        453  0.0  0.0      0     0 ?        S<   4月04   0:00 [loop17]
+systemd+    519  0.0  0.1 146132  2816 ?        Ssl  4月04   0:00 /lib/systemd/systemd-timesyncd
+systemd+    520  0.0  0.2  70780  5540 ?        Ss   4月04   0:00 /lib/systemd/systemd-resolved
+avahi       618  0.0  0.1  47256  2780 ?        Ss   4月04   0:00 avahi-daemon: running [xy-virtual-machine.local]
+root        625  0.0  0.0   4548   652 ?        Ss   4月04   0:00 /usr/sbin/acpid
+avahi       627  0.0  0.0  47076    28 ?        S    4月04   0:00 avahi-daemon: chroot helper
+message+    640  0.0  0.2  51552  5484 ?        Ss   4月04   0:01 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root        649  0.0  0.1  45228  3324 ?        Ss   4月04   0:00 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+root        650  0.0  0.1  33068  3008 ?        Ss   4月04   0:00 /usr/sbin/cron -f
+syslog      655  0.0  0.1 263036  3088 ?        Ssl  4月04   0:00 /usr/sbin/rsyslogd -n
+root        656  0.0  0.3 434320  6048 ?        Ssl  4月04   0:00 /usr/sbin/ModemManager --filter-policy=strict
+root        657  0.0  0.7 172280 15960 ?        Ssl  4月04   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root        658  0.0  0.2  70824  5720 ?        Ss   4月04   0:00 /lib/systemd/systemd-logind
+root        663  0.0  0.4 503340  8376 ?        Ssl  4月04   0:00 /usr/lib/udisks2/udisksd
+root        666  0.0  0.6 562876 13536 ?        Ssl  4月04   0:01 /usr/sbin/NetworkManager --no-daemon
+root        667  0.0  0.3 289744  6532 ?        Ssl  4月04   0:00 /usr/lib/accountsservice/accounts-daemon
+root        668  0.0  0.8 697104 16764 ?        Ssl  4月04   0:04 /usr/lib/snapd/snapd
+root        690  0.0  0.4 292944  8692 ?        Ssl  4月04   0:00 /usr/lib/policykit-1/polkitd --no-debug
+root        736  0.0  0.9 188980 19108 ?        Ssl  4月04   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root        751  0.0  0.3 302948  7648 ?        Ssl  4月04   0:00 /usr/sbin/gdm3
+root        758  0.0  0.1  72300  3816 ?        Ss   4月04   0:00 /usr/sbin/sshd -D
+root        973  0.0  0.3 317052  7944 ?        Ssl  4月04   0:00 /usr/lib/upower/upowerd
+root       1002  0.0  0.0      0     0 ?        I<   4月04   0:00 [kworker/u257:2-]
+root       1045  0.0  0.0      0     0 ?        S    4月04   0:00 [irq/16-vmwgfx]
+root       1047  0.0  0.0      0     0 ?        I<   4月04   0:00 [ttm_swap]
+root       1088  0.0  0.4 256420  8072 ?        Sl   4月04   0:00 gdm-session-worker [pam/gdm-launch-environment]
+root       1107  0.0  0.0 193120   608 ?        Ssl  4月04   0:00 /usr/sbin/vmware-vmblock-fuse -o subtype=vmware-vmblock,default_permissions,allow_other /var/run/vmblock-fuse
+gdm        1113  0.0  0.3  76960  7708 ?        Ss   4月04   0:00 /lib/systemd/systemd --user
+gdm        1114  0.0  0.0 113948  1272 ?        S    4月04   0:00 (sd-pam)
+gdm        1140  0.0  0.2 206892  5716 tty1     Ssl+ 4月04   0:00 /usr/lib/gdm3/gdm-x-session gnome-session --autostart /usr/share/gdm/greeter/autostart
+gdm        1142  0.0  2.2 359216 44856 tty1     Sl+  4月04   0:01 /usr/lib/xorg/Xorg vt1 -displayfd 3 -auth /run/user/121/gdm/Xauthority -background none -noreset -keeptty -verbose 3
+root       1148  0.2  0.6 189268 12988 ?        Sl   4月04   0:30 /usr/sbin/vmtoolsd
+root       1198  0.0  0.5  67380 10816 ?        S    4月04   0:00 /usr/lib/vmware-vgauth/VGAuthService -s
+whoopsie   1206  0.0  0.6 538048 12108 ?        Ssl  4月04   0:00 /usr/bin/whoopsie -f
+kernoops   1207  0.0  0.0  56940   420 ?        Ss   4月04   0:00 /usr/sbin/kerneloops --test
+kernoops   1209  0.0  0.0  56940   416 ?        Ss   4月04   0:00 /usr/sbin/kerneloops
+root       1238  0.0  0.0      0     0 ?        I<   4月04   0:00 [cryptd]
+gdm        1305  0.0  0.2  50256  4404 ?        Ss   4月04   0:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+gdm        1310  0.0  0.6 627676 12976 tty1     Sl+  4月04   0:00 /usr/lib/gnome-session/gnome-session-binary --autostart /usr/share/gdm/greeter/autostart
+root       1323  0.0  0.2  36480  4512 ?        Ss   4月04   0:00 /usr/lib/bluetooth/bluetoothd
+gdm        1334  0.0  0.3 349288  6044 ?        Ssl  4月04   0:00 /usr/lib/at-spi2-core/at-spi-bus-launcher
+gdm        1343  0.0  0.1  49924  3936 ?        S    4月04   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+gdm        1347  0.0  0.3 220708  6764 ?        Sl   4月04   0:00 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+gdm        1415  0.0  7.5 2917412 151620 tty1   Sl+  4月04   0:04 /usr/bin/gnome-shell
+gdm        1491  0.0  0.5 1148144 11072 ?       Ssl  4月04   0:00 /usr/bin/pulseaudio --daemonize=no
+rtkit      1493  0.0  0.1 183504  2936 ?        SNsl 4月04   0:00 /usr/lib/rtkit/rtkit-daemon
+gdm        1505  0.0  0.3 356320  7440 tty1     Sl   4月04   0:00 ibus-daemon --xim --panel disable
+gdm        1508  0.0  0.2 275624  5524 tty1     Sl   4月04   0:00 /usr/lib/ibus/ibus-dconf
+gdm        1510  0.0  1.0 339340 20608 tty1     Sl   4月04   0:00 /usr/lib/ibus/ibus-x11 --kill-daemon
+gdm        1513  0.0  0.2 273568  5584 ?        Sl   4月04   0:00 /usr/lib/ibus/ibus-portal
+gdm        1523  0.0  0.2 266440  4868 ?        Ssl  4月04   0:00 /usr/libexec/xdg-permission-store
+root       1533  0.0  0.3 291724  6616 ?        Ssl  4月04   0:00 /usr/lib/x86_64-linux-gnu/boltd
+root       1536  0.1  1.8 517308 36352 ?        Ssl  4月04   0:11 /usr/lib/packagekit/packagekitd
+gdm        1540  0.0  1.0 489916 21556 tty1     Sl+  4月04   0:00 /usr/lib/gnome-settings-daemon/gsd-xsettings
+gdm        1544  0.0  0.2 273084  5652 tty1     Sl+  4月04   0:00 /usr/lib/gnome-settings-daemon/gsd-a11y-settings
+gdm        1545  0.0  0.9 338988 19992 tty1     Sl+  4月04   0:00 /usr/lib/gnome-settings-daemon/gsd-clipboard
+gdm        1547  0.0  1.0 654208 21452 tty1     Sl+  4月04   0:02 /usr/lib/gnome-settings-daemon/gsd-color
+gdm        1549  0.0  0.6 388508 12828 tty1     Sl+  4月04   0:00 /usr/lib/gnome-settings-daemon/gsd-datetime
+gdm        1550  0.0  0.2 278528  5744 tty1     Sl+  4月04   0:00 /usr/lib/gnome-settings-daemon/gsd-housekeeping
+gdm        1552  0.0  1.0 501924 20896 tty1     Sl+  4月04   0:00 /usr/lib/gnome-settings-daemon/gsd-keyboard
+gdm        1554  0.0  1.1 788356 22420 tty1     Sl+  4月04   0:00 /usr/lib/gnome-settings-daemon/gsd-media-keys
+gdm        1557  0.0  0.2 196788  4480 tty1     Sl+  4月04   0:00 /usr/lib/gnome-settings-daemon/gsd-mouse
+gdm        1560  0.0  1.0 512620 21960 tty1     Sl+  4月04   0:00 /usr/lib/gnome-settings-daemon/gsd-power
+gdm        1564  0.0  0.4 261804  8448 tty1     Sl+  4月04   0:00 /usr/lib/gnome-settings-daemon/gsd-print-notifications
+gdm        1565  0.0  0.2 196808  4296 tty1     Sl+  4月04   0:00 /usr/lib/gnome-settings-daemon/gsd-rfkill
+gdm        1567  0.0  0.2 270524  4592 tty1     Sl+  4月04   0:00 /usr/lib/gnome-settings-daemon/gsd-screensaver-proxy
+gdm        1569  0.0  0.3 300176  7992 tty1     Sl+  4月04   0:00 /usr/lib/gnome-settings-daemon/gsd-sharing
+gdm        1572  0.0  0.4 373004  8432 tty1     Sl+  4月04   0:00 /usr/lib/gnome-settings-daemon/gsd-smartcard
+gdm        1576  0.0  0.3 327792  7452 tty1     Sl+  4月04   0:00 /usr/lib/gnome-settings-daemon/gsd-sound
+gdm        1581  0.0  0.9 423436 19520 tty1     Sl+  4月04   0:00 /usr/lib/gnome-settings-daemon/gsd-wacom
+colord     1608  0.0  0.6 319732 13748 ?        Ssl  4月04   0:00 /usr/lib/colord/colord
+gdm        1634  0.0  0.3 199768  6252 tty1     Sl   4月04   0:00 /usr/lib/ibus/ibus-engine-simple
+root       1639  0.0  0.4 262624  8180 ?        Sl   4月04   0:00 gdm-session-worker [pam/gdm-password]
+xy         1642  0.0  0.3  77052  7744 ?        Ss   4月04   0:00 /lib/systemd/systemd --user
+xy         1643  0.0  0.0 113948  1644 ?        S    4月04   0:00 (sd-pam)
+xy         1656  0.0  0.3 283268  7216 ?        Sl   4月04   0:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+xy         1660  0.0  0.2 206892  5728 tty2     Ssl+ 4月04   0:00 /usr/lib/gdm3/gdm-x-session --run-script env GNOME_SHELL_SESSION_MODE=ubuntu gnome-session --session=ubuntu
+xy         1662  0.0  4.7 477784 95428 tty2     Sl+  4月04   0:02 /usr/lib/xorg/Xorg vt2 -displayfd 3 -auth /run/user/1000/gdm/Xauthority -background none -noreset -keeptty -verbose 3
+xy         1667  0.0  0.2  50736  4952 ?        Ss   4月04   0:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+xy         1671  0.0  0.6 628388 13792 tty2     Sl+  4月04   0:00 /usr/lib/gnome-session/gnome-session-binary --session=ubuntu
+xy         1748  0.0  0.0  11304   316 ?        Ss   4月04   0:00 /usr/bin/ssh-agent /usr/bin/im-launch env GNOME_SHELL_SESSION_MODE=ubuntu gnome-session --session=ubuntu
+xy         1750  0.0  0.3 349292  6064 ?        Ssl  4月04   0:00 /usr/lib/at-spi2-core/at-spi-bus-launcher
+xy         1755  0.0  0.1  49924  3980 ?        S    4月04   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+xy         1758  0.0  0.3 220708  6684 ?        Sl   4月04   0:00 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+xy         1775  0.2  7.8 2935976 156856 tty2   Sl+  4月04   0:23 /usr/bin/gnome-shell
+xy         1781  0.0  0.3 286748  6612 ?        Ssl  4月04   0:00 /usr/lib/gvfs/gvfsd
+xy         1786  0.0  0.2 416112  4816 ?        Sl   4月04   0:00 /usr/lib/gvfs/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+xy         1797  0.0  0.5 1166904 11952 ?       Sl   4月04   0:00 /usr/bin/pulseaudio --start --log-target=syslog
+root       1807  0.0  0.0      0     0 ?        S<   4月04   0:00 [krfcommd]
+xy         1809  0.0  0.3 356332  7428 tty2     Sl   4月04   0:00 ibus-daemon --xim --panel disable
+xy         1813  0.0  0.3 275624  6220 tty2     Sl   4月04   0:00 /usr/lib/ibus/ibus-dconf
+xy         1815  0.0  1.0 339356 20528 tty2     Sl   4月04   0:00 /usr/lib/ibus/ibus-x11 --kill-daemon
+xy         1818  0.0  0.2 273568  5596 ?        Sl   4月04   0:00 /usr/lib/ibus/ibus-portal
+xy         1825  0.0  0.2 266440  5352 ?        Ssl  4月04   0:00 /usr/libexec/xdg-permission-store
+xy         1832  0.0  0.9 689904 19648 ?        Sl   4月04   0:00 /usr/lib/gnome-shell/gnome-shell-calendar-server
+xy         1836  0.0  1.1 973928 23820 ?        Ssl  4月04   0:00 /usr/lib/evolution/evolution-source-registry
+xy         1845  0.0  1.6 782644 32176 ?        Sl   4月04   0:00 /usr/lib/gnome-online-accounts/goa-daemon
+xy         1854  0.0  0.2 187904  5192 ?        Sl   4月04   0:00 /usr/lib/dconf/dconf-service
+xy         1857  0.0  0.3 301392  7616 ?        Ssl  4月04   0:00 /usr/lib/gvfs/gvfs-udisks2-volume-monitor
+xy         1861  0.0  0.2 268820  5732 ?        Ssl  4月04   0:00 /usr/lib/gvfs/gvfs-goa-volume-monitor
+xy         1870  0.0  0.3 371988  6820 ?        Sl   4月04   0:00 /usr/lib/gnome-online-accounts/goa-identity-service
+xy         1872  0.0  0.3 283536  6488 ?        Ssl  4月04   0:00 /usr/lib/gvfs/gvfs-gphoto2-volume-monitor
+xy         1879  0.0  0.3 373596  7472 ?        Ssl  4月04   0:00 /usr/lib/gvfs/gvfs-afc-volume-monitor
+xy         1885  0.0  0.2 270616  4676 ?        Ssl  4月04   0:00 /usr/lib/gvfs/gvfs-mtp-volume-monitor
+xy         1890  0.0  1.0 512488 21828 tty2     Sl+  4月04   0:00 /usr/lib/gnome-settings-daemon/gsd-power
+xy         1892  0.0  0.4 344116  9992 tty2     Sl+  4月04   0:00 /usr/lib/gnome-settings-daemon/gsd-print-notifications
+xy         1893  0.0  0.2 418132  5792 tty2     Sl+  4月04   0:00 /usr/lib/gnome-settings-daemon/gsd-rfkill
+xy         1894  0.0  0.2 270524  5624 tty2     Sl+  4月04   0:00 /usr/lib/gnome-settings-daemon/gsd-screensaver-proxy
+xy         1897  0.0  0.4 447768  9208 tty2     Sl+  4月04   0:00 /usr/lib/gnome-settings-daemon/gsd-sharing
+xy         1904  0.0  1.0 489872 21212 tty2     Sl+  4月04   0:00 /usr/lib/gnome-settings-daemon/gsd-xsettings
+xy         1905  0.0  1.0 423880 20824 tty2     Sl+  4月04   0:00 /usr/lib/gnome-settings-daemon/gsd-wacom
+xy         1908  0.0  0.3 372996  7120 tty2     Sl+  4月04   0:00 /usr/lib/gnome-settings-daemon/gsd-smartcard
+xy         1910  0.0  0.3 327792  7428 tty2     Sl+  4月04   0:00 /usr/lib/gnome-settings-daemon/gsd-sound
+xy         1913  0.0  0.2 273084  5608 tty2     Sl+  4月04   0:00 /usr/lib/gnome-settings-daemon/gsd-a11y-settings
+xy         1914  0.0  0.9 338900 19652 tty2     Sl+  4月04   0:00 /usr/lib/gnome-settings-daemon/gsd-clipboard
+xy         1916  0.0  1.0 654012 20992 tty2     Sl+  4月04   0:02 /usr/lib/gnome-settings-daemon/gsd-color
+xy         1918  0.0  0.6 464668 12544 tty2     Sl+  4月04   0:00 /usr/lib/gnome-settings-daemon/gsd-datetime
+xy         1921  0.0  0.3 359376  6448 tty2     Sl+  4月04   0:00 /usr/lib/gnome-settings-daemon/gsd-housekeeping
+xy         1922  0.0  1.0 501900 20884 tty2     Sl+  4月04   0:00 /usr/lib/gnome-settings-daemon/gsd-keyboard
+xy         1924  0.0  1.0 788140 22008 tty2     Sl+  4月04   0:00 /usr/lib/gnome-settings-daemon/gsd-media-keys
+xy         1928  0.0  0.2 273092  5596 tty2     Sl+  4月04   0:00 /usr/lib/gnome-settings-daemon/gsd-mouse
+xy         1951  0.0  0.6 503556 12480 tty2     Sl+  4月04   0:00 /usr/lib/gnome-settings-daemon/gsd-printer
+xy         1986  0.0  3.1 842772 62792 tty2     Sl+  4月04   0:01 nautilus-desktop
+xy         1988  0.0  0.2 271932  5700 tty2     Sl+  4月04   0:00 /usr/lib/gnome-disk-utility/gsd-disk-utility-notify
+xy         1990  0.2  1.3 260816 27920 tty2     Sl+  4月04   0:30 /usr/lib/vmware-tools/sbin64/vmtoolsd -n vmusr --blockFd 3
+xy         2008  0.0  0.3 363012  6740 ?        Sl   4月04   0:00 /usr/lib/gvfs/gvfsd-trash --spawner :1.13 /org/gtk/gvfs/exec_spaw/0
+xy         2042  0.0  3.2 887560 65832 ?        Ssl  4月04   0:00 /usr/lib/evolution/evolution-calendar-factory
+xy         2050  0.0  3.0 926640 61220 ?        Sl   4月04   0:00 /usr/lib/evolution/evolution-calendar-factory-subprocess --factory all --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.Calendarx2042x2 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/Calendar/2042/2
+xy         2068  0.0  1.1 727776 22272 ?        Ssl  4月04   0:00 /usr/lib/evolution/evolution-addressbook-factory
+xy         2076  0.0  1.4 866984 28972 ?        Sl   4月04   0:00 /usr/lib/evolution/evolution-addressbook-factory-subprocess --factory all --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.AddressBookx2068x2 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/AddressBook/2068/2
+xy         2078  0.0  0.3 199768  6260 tty2     Sl   4月04   0:00 /usr/lib/ibus/ibus-engine-simple
+xy         2106  0.0  0.4 296080  8940 tty2     Sl   4月04   0:00 /usr/lib/ibus/ibus-engine-libpinyin --ibus
+root       2115  0.0  0.2 107788  5124 ?        Ss   4月04   0:00 sshd: xy [priv]
+xy         2209  0.0  0.2 110088  4096 ?        S    4月04   0:00 sshd: xy@pts/0
+xy         2210  0.0  0.2  24572  5188 pts/0    Ss   4月04   0:00 -bash
+xy         2227  0.0  1.5 613112 30260 tty2     Sl+  4月04   0:00 update-notifier
+xy         2229  0.0  7.0 1072916 141448 tty2   SLl+ 4月04   0:04 /usr/bin/gnome-software --gapplication-service
+xy         2351  0.0  1.6 943596 33436 tty2     Sl+  4月04   0:00 /usr/lib/deja-dup/deja-dup-monitor
+xy         2371  0.0  0.1  23060  3892 pts/0    S+   4月04   0:00 man 2 truncate
+xy         2381  0.0  0.0  11596  1080 pts/0    S+   4月04   0:00 pager
+root       2794  0.0  0.0      0     0 ?        I    4月04   0:00 [kworker/u256:0-]
+root       3077  0.0  0.2  25980  6012 ?        S    4月04   0:00 /sbin/dhclient -d -q -sf /usr/lib/NetworkManager/nm-dhcp-helper -pf /run/dhclient-ens33.pid -lf /var/lib/NetworkManager/dhclient-cce15612-e9b1-3908-8b98-54ffa19884bb-ens33.lease -cf /var/lib/NetworkManager/dhclient-ens33.conf ens33
+root       3161  0.0  0.2 107788  4964 ?        Ss   4月04   0:00 sshd: xy [priv]
+xy         3249  0.0  0.2 110088  4016 ?        S    4月04   0:00 sshd: xy@pts/1
+xy         3250  0.0  0.2  24572  5140 pts/1    Ss   4月04   0:00 -bash
+root       3264  0.0  0.2 110080  5128 ?        Ss   4月04   0:00 sshd: xy [priv]
+xy         3330  0.2  0.1 110592  3460 ?        S    4月04   0:04 sshd: xy@notty
+xy         3331  0.0  0.1  14764  3524 ?        Ss   4月04   0:00 bash
+xy         3374  0.0  0.0   4624   784 ?        S    4月04   0:00 sh /home/xy/.vscode-server/bin/d5e9aa0227e057a60c82568bf31c04730dc15dcd/server.sh --host=127.0.0.1 --enable-remote-auto-shutdown --port=0
+xy         3381  0.2  2.6 859220 54064 ?        Sl   4月04   0:03 /home/xy/.vscode-server/bin/d5e9aa0227e057a60c82568bf31c04730dc15dcd/node /home/xy/.vscode-server/bin/d5e9aa0227e057a60c82568bf31c04730dc15dcd/out/vs/server/main.js --host=127.0.0.1 --enable-remote-auto-shutdown --port=0
+xy         3463  0.0  1.7 796296 35420 ?        Sl   4月04   0:00 /home/xy/.vscode-server/bin/d5e9aa0227e057a60c82568bf31c04730dc15dcd/node /home/xy/.vscode-server/bin/d5e9aa0227e057a60c82568bf31c04730dc15dcd/out/bootstrap-fork --type=watcherService
+xy         3480  2.7  7.0 1044516 141444 ?      Sl   4月04   0:51 /home/xy/.vscode-server/bin/d5e9aa0227e057a60c82568bf31c04730dc15dcd/node /home/xy/.vscode-server/bin/d5e9aa0227e057a60c82568bf31c04730dc15dcd/out/bootstrap-fork --type=extensionHost --uriTransformerPath=/home/xy/.vscode-server/bin/d5e9aa0227e057a60c82568bf31c04730dc15dcd/out/vs/server/uriTransformer.js
+xy         3494  0.0  0.2  24556  4904 pts/2    Ss+  4月04   0:00 /bin/bash
+xy         3523  0.6  2.4 705200 49496 ?        Sl   4月04   0:11 /home/xy/.vscode-server/extensions/ms-vscode.cpptools-1.0.1/bin/cpptools
+xy         3569  0.0  0.6 4451544 13664 ?       Sl   4月04   0:00 /home/xy/.vscode-server/extensions/ms-vscode.cpptools-1.0.1/bin/cpptools-srv 3523 0
+xy         3576  0.0  1.8 568792 36640 ?        Sl   4月04   0:00 /home/xy/.vscode-server/bin/d5e9aa0227e057a60c82568bf31c04730dc15dcd/node /home/xy/.vscode-server/bin/d5e9aa0227e057a60c82568bf31c04730dc15dcd/extensions/json-language-features/server/dist/node/jsonServerMain --node-ipc --clientProcessId=3480
+xy         3604  0.1  1.0 4451412 21168 ?       Sl   4月04   0:03 /home/xy/.vscode-server/extensions/ms-vscode.cpptools-1.0.1/bin/cpptools-srv 3523 1
+xy         3613  0.0  0.2  24468  5088 pts/4    Ss   4月04   0:00 /bin/bash
+xy         4214  0.0  0.1  23060  3976 pts/1    S+   00:00   0:00 man 2 stat
+xy         4224  0.0  0.0  11596   948 pts/1    S+   00:00   0:00 pager
+root       4677  0.0  0.0      0     0 ?        I    00:08   0:00 [kworker/u256:2-]
+root       4678  0.0  0.4 102864  8584 ?        Ss   00:08   0:00 /usr/sbin/cupsd -l
+root       4680  0.0  0.5 303528 10884 ?        Ssl  00:08   0:00 /usr/sbin/cups-browsed
+lp         4684  0.0  0.2  86416  5952 ?        S    00:08   0:00 /usr/lib/cups/notifier/dbus dbus://
+xy         5057  0.0  0.0   9216   816 ?        S    00:15   0:00 sleep 180
+xy         5062  0.0  0.1  41424  3712 pts/4    R+   00:17   0:00 ps aux
